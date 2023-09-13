@@ -54,7 +54,7 @@ h1 {
 }
 .card-container{
     padding: 30px;
-    display: grid;
+    display: flex;
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
     gap: 20px;
     justify-content: center;
